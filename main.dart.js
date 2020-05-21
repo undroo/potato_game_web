@@ -34115,7 +34115,7 @@ t.push(new U.lO("",!1,!0,r,r,r,!1,r,C.a1,C.m,"",!0,!1,r,C.bl))
 return!1}return!0}}
 F.ue.prototype={
 O:function(a){var t=X.R0(C.a0)
-return new S.mD(P.bn(["/",new F.FV()],u.N,u.hw),"/","Potato Game",t,null)}}
+return new S.mD(P.bn(["/",new F.FV()],u.N,u.hw),"/","Flutter Demo",t,null)}}
 F.FV.prototype={
 $1:function(a){return new T.i6(null)},
 $S:134}
